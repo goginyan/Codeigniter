@@ -1,0 +1,37 @@
+div.horizontal
+{
+width:44%;
+height:30px;
+background-color:#1A5A9B;
+}
+div.horizontal ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+}
+div.horizontal li
+{
+float:left;
+}
+div.horizontal a
+{
+display:block;
+width:200px;
+}
+div.horizontal a:link,div.horizontal a:visited
+{
+font-weight:bold;
+color:#FFFFFF;
+background-color:#2EA0BA;
+text-align:center;
+padding:4px;
+text-decoration:none;
+text-transform:uppercase;
+}
+div.horizontal a:hover,div.horizontal a:active
+{
+background-color:#0E0E49;
+}
+
+
